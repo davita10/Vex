@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+#container{
+    /* width: 600px; */
+    min-height: 500px;
+    margin-bottom: 40px;
+}
+
+h1{
+    color: black;
+    background-color: rebeccapurple;
+    padding:25px;
+    margin:20px 0px;
+}
+
+#box-1{
+    background-color: dodgerblue;
+    min-height: 500px;
+    width: 33%;
+    display: inline-block;
+    
+
+}
+
+#box-2{
+    background-color: gold;
+    min-height: 500px;
+    width: 33%;
+    display: inline-block;
+}
+
+#box-3{
+    background-color: red;
+    min-height: 500px;
+    width: 33%;
+    display: inline-block;
+}
+
+#container-2{
+    min-height: 700px;
+    margin-top: 50px;
+} 
+
+#container-2 h1{
+    color: black;
+    background-color: rebeccapurple;
+    padding:25px;
+    margin:20px 0px;
+}
+
+#box1b{
+    background-color:green;
+    min-height: 500px;
+    width: 33%;
+    display: inline-block;
+    
+}
+
+#fly{
+    width: 66%;
+    display: inline-block;
+}
+
+#box2b{
+    background-color: gold;
+    min-height: 250px;
+    width: 96%;
+    display: inline-block;
+}
+
+#box3b{
+    background-color: red;
+    min-height: 250px;
+    width: 96%;
+    display: inline-block;
+} 
+
+
+
+
+
+
